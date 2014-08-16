@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DFF35252199D9F7D00226DB4"
+               BlueprintIdentifier = "DFF35281199ED8AA00226DB4"
                BuildableName = "FirstIphoneApp.app"
                BlueprintName = "FirstIphoneApp"
                ReferencedContainer = "container:FirstIphoneApp.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DFF35268199D9F7D00226DB4"
+               BlueprintIdentifier = "DFF35297199ED8AA00226DB4"
                BuildableName = "FirstIphoneAppTests.xctest"
                BlueprintName = "FirstIphoneAppTests"
                ReferencedContainer = "container:FirstIphoneApp.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DFF35268199D9F7D00226DB4"
+               BlueprintIdentifier = "DFF35297199ED8AA00226DB4"
                BuildableName = "FirstIphoneAppTests.xctest"
                BlueprintName = "FirstIphoneAppTests"
                ReferencedContainer = "container:FirstIphoneApp.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DFF35252199D9F7D00226DB4"
+            BlueprintIdentifier = "DFF35281199ED8AA00226DB4"
             BuildableName = "FirstIphoneApp.app"
             BlueprintName = "FirstIphoneApp"
             ReferencedContainer = "container:FirstIphoneApp.xcodeproj">
@@ -75,7 +75,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DFF35252199D9F7D00226DB4"
+            BlueprintIdentifier = "DFF35281199ED8AA00226DB4"
             BuildableName = "FirstIphoneApp.app"
             BlueprintName = "FirstIphoneApp"
             ReferencedContainer = "container:FirstIphoneApp.xcodeproj">
@@ -93,7 +93,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DFF35252199D9F7D00226DB4"
+            BlueprintIdentifier = "DFF35281199ED8AA00226DB4"
             BuildableName = "FirstIphoneApp.app"
             BlueprintName = "FirstIphoneApp"
             ReferencedContainer = "container:FirstIphoneApp.xcodeproj">
